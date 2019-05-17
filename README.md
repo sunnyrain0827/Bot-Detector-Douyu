@@ -1,4 +1,4 @@
-# Data-Streaming# Bot-Detector-Douyu
+Bot-Detector-Douyu
 Real Time Bot Detection And Heat Analysis
 Zirui Tan, Zichen Liu, Haopeng Zhang, Yuting Wang
 
